@@ -1,0 +1,16 @@
+[
+{
+  "modid": "printfromminecraft",
+  "name": "Print From Minecraft",
+  "description": "Use wand to mark print area around creation and send model to 3D Printer.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "kateringland.com",
+  "updateUrl": "",
+  "authorList": ["Kate Ringland", "Aminah Tamimi"],
+  "credits": "tbd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
